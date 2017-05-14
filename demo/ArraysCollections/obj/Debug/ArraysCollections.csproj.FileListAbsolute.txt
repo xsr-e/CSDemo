@@ -1,0 +1,5 @@
+D:\git\CSDemo\demo\ArraysCollections\bin\Debug\ArraysCollections.exe.config
+D:\git\CSDemo\demo\ArraysCollections\bin\Debug\ArraysCollections.exe
+D:\git\CSDemo\demo\ArraysCollections\bin\Debug\ArraysCollections.pdb
+D:\git\CSDemo\demo\ArraysCollections\obj\Debug\ArraysCollections.exe
+D:\git\CSDemo\demo\ArraysCollections\obj\Debug\ArraysCollections.pdb

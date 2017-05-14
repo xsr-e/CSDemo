@@ -1,0 +1,5 @@
+D:\git\CSDemo\demo\DelegateAnonymousMethods\bin\Debug\DelegateAnonymousMethods.exe.config
+D:\git\CSDemo\demo\DelegateAnonymousMethods\bin\Debug\DelegateAnonymousMethods.exe
+D:\git\CSDemo\demo\DelegateAnonymousMethods\bin\Debug\DelegateAnonymousMethods.pdb
+D:\git\CSDemo\demo\DelegateAnonymousMethods\obj\Debug\DelegateAnonymousMethods.exe
+D:\git\CSDemo\demo\DelegateAnonymousMethods\obj\Debug\DelegateAnonymousMethods.pdb

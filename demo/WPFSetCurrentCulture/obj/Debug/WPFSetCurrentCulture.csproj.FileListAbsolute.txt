@@ -1,0 +1,13 @@
+D:\git\CSDemo\demo\WPFSetCurrentCulture\bin\Debug\WPFSetCurrentCulture.exe.config
+D:\git\CSDemo\demo\WPFSetCurrentCulture\bin\Debug\WPFSetCurrentCulture.exe
+D:\git\CSDemo\demo\WPFSetCurrentCulture\bin\Debug\WPFSetCurrentCulture.pdb
+D:\git\CSDemo\demo\WPFSetCurrentCulture\obj\Debug\WPFSetCurrentCulture.csprojResolveAssemblyReference.cache
+D:\git\CSDemo\demo\WPFSetCurrentCulture\obj\Debug\MainWindow.baml
+D:\git\CSDemo\demo\WPFSetCurrentCulture\obj\Debug\MainWindow.g.cs
+D:\git\CSDemo\demo\WPFSetCurrentCulture\obj\Debug\App.g.cs
+D:\git\CSDemo\demo\WPFSetCurrentCulture\obj\Debug\WPFSetCurrentCulture_MarkupCompile.cache
+D:\git\CSDemo\demo\WPFSetCurrentCulture\obj\Debug\WPFSetCurrentCulture.g.resources
+D:\git\CSDemo\demo\WPFSetCurrentCulture\obj\Debug\WPFSetCurrentCulture.Properties.Resources.resources
+D:\git\CSDemo\demo\WPFSetCurrentCulture\obj\Debug\WPFSetCurrentCulture.csproj.GenerateResource.Cache
+D:\git\CSDemo\demo\WPFSetCurrentCulture\obj\Debug\WPFSetCurrentCulture.exe
+D:\git\CSDemo\demo\WPFSetCurrentCulture\obj\Debug\WPFSetCurrentCulture.pdb

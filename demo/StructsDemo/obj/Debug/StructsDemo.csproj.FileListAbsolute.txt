@@ -1,0 +1,5 @@
+D:\git\CSDemo\demo\StructsDemo\bin\Debug\StructsDemo.exe.config
+D:\git\CSDemo\demo\StructsDemo\bin\Debug\StructsDemo.exe
+D:\git\CSDemo\demo\StructsDemo\bin\Debug\StructsDemo.pdb
+D:\git\CSDemo\demo\StructsDemo\obj\Debug\StructsDemo.exe
+D:\git\CSDemo\demo\StructsDemo\obj\Debug\StructsDemo.pdb
