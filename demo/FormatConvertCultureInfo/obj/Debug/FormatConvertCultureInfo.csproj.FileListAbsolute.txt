@@ -1,7 +1,0 @@
-C:\Users\me\AppData\Local\Temporary Projects\FormatConvertCultureInfo\bin\Debug\FormatConvertCultureInfo.exe.config
-D:\git\CSDemo\demo\FormatConvertCultureInfo\bin\Debug\FormatConvertCultureInfo.exe.config
-D:\git\CSDemo\demo\FormatConvertCultureInfo\bin\Debug\FormatConvertCultureInfo.exe
-D:\git\CSDemo\demo\FormatConvertCultureInfo\bin\Debug\FormatConvertCultureInfo.pdb
-D:\git\CSDemo\demo\FormatConvertCultureInfo\obj\Debug\FormatConvertCultureInfo.csprojResolveAssemblyReference.cache
-D:\git\CSDemo\demo\FormatConvertCultureInfo\obj\Debug\FormatConvertCultureInfo.exe
-D:\git\CSDemo\demo\FormatConvertCultureInfo\obj\Debug\FormatConvertCultureInfo.pdb

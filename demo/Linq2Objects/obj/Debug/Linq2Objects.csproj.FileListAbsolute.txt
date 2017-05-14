@@ -1,6 +1,0 @@
-D:\git\CSDemo\demo\Linq2Objects\bin\Debug\Linq2Objects.exe.config
-D:\git\CSDemo\demo\Linq2Objects\bin\Debug\Linq2Objects.exe
-D:\git\CSDemo\demo\Linq2Objects\bin\Debug\Linq2Objects.pdb
-D:\git\CSDemo\demo\Linq2Objects\obj\Debug\Linq2Objects.csprojResolveAssemblyReference.cache
-D:\git\CSDemo\demo\Linq2Objects\obj\Debug\Linq2Objects.exe
-D:\git\CSDemo\demo\Linq2Objects\obj\Debug\Linq2Objects.pdb
